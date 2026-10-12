@@ -170,6 +170,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 
 ## Business Financial Management
 
+- [Tanzhang](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en.html) [B2SMB] - Free, no-signup CNY calculator for one market-stall event: subtract sold-unit costs, stock losses and event expenses from net receipts. No tax calculation, account sync or saved results.
 - [Aikount](https://aikount.com/) [B2SMB] - Accounting software for freelancers and small businesses in Spain: invoicing, expense capture from PDF receipts, bank reconciliation and quarterly VAT returns, with a public API and MCP server.
 - [Brex](https://www.brex.com/) [B2B, [@brexHQ](https://twitter.com/brexHQ), [LinkedIn](https://www.linkedin.com/company/brexhq/), [Careers](https://www.brex.com/careers/)] - We’re reimagining financial systems so every growing company can realize their full potential.
 - [Carta](https://carta.com/) [B2B, [@cartainc](https://twitter.com/cartainc), [LinkedIn](https://www.linkedin.com/company/carta--/), [Careers](https://boards.greenhouse.io/carta)] - We believe in the power of equity. We help companies, investors, and employees manage their equity—and help everyone learn how it works.
